@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <>
-      <p>React Netflix</p>
+      <p>React Netflix By Akshay Saini</p>
     </>
   );
 }
