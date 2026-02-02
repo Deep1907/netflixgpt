@@ -1,10 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
+import Body from "./component/Body.js";
+
 
 function App() {
   return (
     <>
-      <p>React Netflix By Akshay Saini</p>
+      <Body />
     </>
   );
 }
